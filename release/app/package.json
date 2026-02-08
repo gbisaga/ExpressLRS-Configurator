@@ -17,8 +17,5 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "serialport": "^12.0.0"
-  },
-  "resolutions": {
-    "node-gyp-build": "4.8.1"
   }
 }

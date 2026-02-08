@@ -1,5 +1,5 @@
 overwrite: true
-schema: './graphql.schema.json'
+schema: 'http://localhost:3500/graphql'
 generates:
   src/ui/gql/generated/types.ts:
     documents:
